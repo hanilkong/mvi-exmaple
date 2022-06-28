@@ -1,3 +1,6 @@
+// model 영역 
+// model 선언 예제는 const와 class 두개임
+
 export interface IModel {
   tempF: number
   tempC: number
@@ -9,7 +12,7 @@ export const model: IModel = {
 }
 
 export class Model {
-  private tempC: number;
+  private tempC: number
   private tempF: number
   constructor() {
     this.tempC = 0
