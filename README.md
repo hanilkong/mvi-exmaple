@@ -6,4 +6,6 @@
 
 - model.ts는 view에 적용될 state의 초기 값입니다.
 
+- https://codesandbox.io/s/lively-cookies-6lcnt2
+
 참고자료: https://cycle.js.org/model-view-intent.html
